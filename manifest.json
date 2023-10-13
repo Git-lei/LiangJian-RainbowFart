@@ -10,6 +10,7 @@
     "languages": [
         "javascript"
     ],
+    "locale": "zh",
     "contributes": [
         {
             "keywords": [
@@ -475,7 +476,7 @@
                 "Crosstalk/李云龙 .mp3",
                 "Crosstalk/李云龙 老子跟你没完.mp3",
                 "Crosstalk/李云龙 你开炮啊.mp3",
-                "Crosstalk/李云龙这个兔崽子 没有他不敢干的事.mp3",
+                "Crosstalk/李云龙这个兔崽子 没有他不敢干的事.mp3"
             ]
         },
         {
