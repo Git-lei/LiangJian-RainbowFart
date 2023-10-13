@@ -1,2 +1,2 @@
 # LiangJian-RainbowFart
-RainbowFart亮剑语音
+🌈Rainbow-Fart语音包(亮剑语音)
