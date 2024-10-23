@@ -10,5 +10,846 @@
     "languages": [
         "javascript"
     ],
-    "locale": "zh"
+    "contributes": [
+        {
+            "keywords": [
+                "main"
+            ],
+            "voices": [
+                "Crosstalk/唉干啥啊这是.mp3",
+                "Crosstalk/唉秀芹你这丫头怎么跟我干上了.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "template"
+            ],
+            "voices": [
+                "Crosstalk/唉徐老六有他妈你这么打的吗.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "class"
+            ],
+            "voices": [
+                "Crosstalk/挨了打不还手的人别在我二师混.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "function"
+            ],
+            "voices": [
+                "Crosstalk/报告团长王德柱听从指示想想办法干他一炮.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "func"
+            ],
+            "voices": [
+                "Crosstalk/别他娘的扯淡了.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "=>"
+            ],
+            "voices": [
+                "Crosstalk/别以为我一见媳妇就上炕.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "export"
+            ],
+            "voices": [
+                "Crosstalk/不报此仇，我李云龙誓不为人.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "default"
+            ],
+            "voices": [
+                "扯Crosstalk/淡.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "connect"
+            ],
+            "voices": [
+                "Crosstalk/打啊怎么不打了.mp3",
+                "Crosstalk/打得不错.mp3",
+                "Crosstalk/打的好啊老赵.mp3",
+                "Crosstalk/打的好.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "Component"
+            ],
+            "voices": [
+                "Crosstalk/大点声.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "import"
+            ],
+            "voices": [
+                "Crosstalk/弹药手给我来个弹药手.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "from"
+            ],
+            "voices": [
+                "Crosstalk/得得得你别给我扯淡.mp3",
+                "Crosstalk/得了得了得了，老子就知道，娘的.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "extends"
+            ],
+            "voices": [
+                "Crosstalk/等打完了我赏给你半斤地瓜烧.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "constructor"
+            ],
+            "voices": [
+                "Crosstalk/弟兄们把枪给我扔了绝不留给小日本.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "super"
+            ],
+            "voices": [
+                "Crosstalk/弟兄们都说小鬼子拼刺刀有两下子.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "state"
+            ],
+            "voices": [
+                "Crosstalk/都是一个肩膀两个脑袋，谁怕谁啊.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "async"
+            ],
+            "voices": [
+                "Crosstalk/诶，你他娘的还真是个天才.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "await"
+            ],
+            "voices": [
+                "Crosstalk/二营长你他娘的意大利炮你给老子啦出来.mp3",
+                "Crosstalk/二营长我到要看你会不会使直接轰他娘的.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "&&"
+            ],
+            "voices": [
+                "Crosstalk/放屁！.mp3",
+                "Crosstalk/放屁.mp3",
+                "Crosstalk/放他娘的屁.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "=="
+            ],
+            "voices": [
+                "Crosstalk/风水轮流转也该他们常常挨炸的滋味了.mp3",
+                "Crosstalk/风水轮流转，也该他们挨炮了.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "{"
+            ],
+            "voices": [
+                "Crosstalk/逢敌必亮剑绝不含糊.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "}"
+            ],
+            "voices": [
+                "Crosstalk/伏击摸营只要是对付鬼子你们爱干什么干什么.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "("
+            ],
+            "voices": [
+                "Crosstalk/该硬的时候就得硬.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "for"
+            ],
+            "voices": [
+                "Crosstalk/干什么干什么.mp3",
+                "Crosstalk/干什么干什么你看你们一个一个的还能不能有点出息.mp3",
+                "Crosstalk/干什么干什么，眼睛瞪的跟牛蛋似的.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "do"
+            ],
+            "voices": [
+                "Crosstalk/搞什么鬼啊.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "while"
+            ],
+            "voices": [
+                "Crosstalk/告诉你们程瞎子当年老子怎么教他打枪今天就教他怎么打仗.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "in"
+            ],
+            "voices": [
+                "Crosstalk/给老子闭嘴.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "map"
+            ],
+            "voices": [
+                "Crosstalk/给我打给我打这群灭绝人性的日本畜生.mp3",
+                "Crosstalk/给我打瞄准了使劲哄他娘的.mp3",
+                "Crosstalk/给我打这群没人性的日本畜生.mp3",
+                "Crosstalk/给我打瞄准了轰他娘的.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "sort"
+            ],
+            "voices": [
+                "Crosstalk/滚滚滚，都给老子滚.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "substring"
+            ],
+            "voices": [
+                "Crosstalk/过瘾那过瘾.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "this"
+            ],
+            "voices": [
+                "Crosstalk/哈哈哈老天有眼.mp3",
+                "Crosstalk/哈哈哈，老天爷帮忙啊.mp3",
+                "Crosstalk/哈哈哈，那我就不客气了.mp3",
+                "Crosstalk/哈哈哈哈.mp3",
+                "Crosstalk/哈哈哈哈哈哈.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "props"
+            ],
+            "voices": [
+                "Crosstalk/还有谁不服，站出来.mp3",
+                "Crosstalk/还有谁不服啊是汉子就给老子站出来.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "subscribe"
+            ],
+            "voices": [
+                "Crosstalk/好咱就和鬼子单打独斗.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "static"
+            ],
+            "voices": [
+                "Crosstalk/好像是捅他屁眼去.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "src"
+            ],
+            "voices": [
+                "Crosstalk/好小子有两下子.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "submit"
+            ],
+            "voices": [
+                "Crosstalk/呵呵呵哈哈哈嘿嘿.mp3",
+                "Crosstalk/嘿.mp3",
+                "Crosstalk/嘿嘿两个人穿上一条裤子了.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "href"
+            ],
+            "voices": [
+                "Crosstalk/和尚和尚到去保护团长.mp3",
+                "Crosstalk/豁出去了，干.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "forEach"
+            ],
+            "voices": [
+                "Crosstalk/简直赶上他娘的迫击炮了啊.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "!="
+            ],
+            "voices": [
+                "Crosstalk/解散，解散，解散，他娘的.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "if"
+            ],
+            "voices": [
+                "Crosstalk/今天我李云龙不是吹牛，不服的站出来试试.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "else"
+            ],
+            "voices": [
+                "Crosstalk/今天这一仗你得拿出当年大刀队的气势.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "?"
+            ],
+            "voices": [
+                "Crosstalk/就冲这个，我赵刚佩服.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "of"
+            ],
+            "voices": [
+                "Crosstalk/就你这狗熊脾气给人家看大门都没人要你.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "switch"
+            ],
+            "voices": [
+                "Crosstalk/看见没有小鬼子照样是爹娘养的.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "void"
+            ],
+            "voices": [
+                "Crosstalk/据我的恋爱经验啊说白了就是王八看绿豆看对眼了.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "let"
+            ],
+            "voices": [
+                "Crosstalk/开炮！！！.mp3",
+                "孔二愣子.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "const"
+            ],
+            "voices": [
+                "Crosstalk/狼行千里吃肉狗行千里吃屎咱独立团什么时候改善生活啊.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "var"
+            ],
+            "voices": [
+                "Crosstalk/老李老李你伤哪了老李.mp3",
+                "Crosstalk/老李咱们干他一票？.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "String"
+            ],
+            "voices": [
+                "Crosstalk/老李啊找到老婆没有？还没找呢这不打仗吗.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "try"
+            ],
+            "voices": [
+                "Crosstalk/老天爷帮忙啊.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "catch"
+            ],
+            "voices": [
+                "Crosstalk/老子不是团长早撸了.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "finally"
+            ],
+            "voices": [
+                "Crosstalk/老子倒想看一看这帮日本猪知道不知道疼.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "case"
+            ],
+            "voices": [
+                "Crosstalk/老子突突了你们这群狗日的.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "fliter"
+            ],
+            "voices": [
+                "Crosstalk/李云龙你他娘的搞什么鬼啊.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "deafult"
+            ],
+            "voices": [
+                "Crosstalk/李云龙.mp3",
+                "Crosstalk/李云龙老子跟你没完.mp3",
+                "Crosstalk/李云龙你开炮啊.mp3",
+                "Crosstalk/李云龙这个兔崽子没有他不敢干的事.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "ture"
+            ],
+            "voices": [
+                "Crosstalk/两个人穿上一条裤子了.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "false"
+            ],
+            "voices": [
+                "Crosstalk/龙哥骂人语段.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "submited"
+            ],
+            "voices": [
+                "Crosstalk/没有我李云龙的命令，我看你们谁敢动一个手指头.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "break"
+            ],
+            "voices": [
+                "Crosstalk/命令一营三营各区大队县小队全部投入战斗.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "continue"
+            ],
+            "voices": [
+                "Crosstalk/哪打炮.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "return"
+            ],
+            "voices": [
+                "Crosstalk/哪个不怕死的上来.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "new"
+            ],
+            "voices": [
+                "Crosstalk/哪个狗日的打我小报告.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "this"
+            ],
+            "voices": [
+                "Crosstalk/那我就不客气了啊.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "self"
+            ],
+            "voices": [
+                "Crosstalk/你不同意我在这揍他狗娘养的是吧.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "delete"
+            ],
+            "voices": [
+                "Crosstalk/你段鹏是干什么吃的.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "public"
+            ],
+            "voices": [
+                "Crosstalk/你给我守好这悬崖峭壁u.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "throw"
+            ],
+            "voices": [
+                "你Crosstalk/敢.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "even"
+            ],
+            "voices": [
+                "Crosstalk/你狗日的骂谁呢.mp3",
+                "你狗日的.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "error"
+            ],
+            "voices": [
+                "Crosstalk/你回家哄孩子去吧干什么吃的.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "Number"
+            ],
+            "voices": [
+                "Crosstalk/你急什么啊.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "require"
+            ],
+            "voices": [
+                "Crosstalk/你开炮啊（女）.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "include"
+            ],
+            "voices": [
+                "Crosstalk/你看看一个小小的独立排长挂两个王八盒子望远镜的倍数比我都打.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "use"
+            ],
+            "voices": [
+                "Crosstalk/你看这这这.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "apply"
+            ],
+            "voices": [
+                "Crosstalk/你可以啊小子.mp3",
+                "Crosstalk/你可真行啊.mp3",
+                "Crosstalk/你可真行，顾头不顾腚的.mp3",
+                "Crosstalk/你空二愣子一眨眼成了政委了猪鼻子插大葱装什么.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "call"
+            ],
+            "voices": [
+                "Crosstalk/你乐什么乐啊吃了蜜蜂屎了？.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "on"
+            ],
+            "voices": [
+                "Crosstalk/你们分头通知有重要作战任务.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "//"
+            ],
+            "voices": [
+                "Crosstalk/你们分头通知有重要作战任务.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "/*"
+            ],
+            "voices": [
+                "Crosstalk/你们给我记住了军人要有骨气.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "append"
+            ],
+            "voices": [
+                "Crosstalk/你怕什么啊你.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "push"
+            ],
+            "voices": [
+                "Crosstalk/你三营长要给我打出精神头来.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "unshift"
+            ],
+            "voices": [
+                "Crosstalk/你少冲我瞪眼睛老子干的怎么着吧.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "shift"
+            ],
+            "voices": [
+                "Crosstalk/你他娘的你个败家子你怎么不省着点用.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "pop"
+            ],
+            "voices": [
+                "Crosstalk/你他娘的打歪了.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "reverse"
+            ],
+            "voices": [
+                "Crosstalk/你他娘的还真是个天才.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "join"
+            ],
+            "voices": [
+                "Crosstalk/你他娘的喊什么玩意.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "concat"
+            ],
+            "voices": [
+                "Crosstalk/你我彼此彼此都不吃亏的.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "slice"
+            ],
+            "voices": [
+                "Crosstalk/你他娘的意大利炮呢.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "indexOf"
+            ],
+            "voices": [
+                "Crosstalk/你吓唬谁啊.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "lastIndexOf"
+            ],
+            "voices": [
+                "Crosstalk/你小子得动动脑子不是啥时候都能打反击.mp3",
+                "Crosstalk/你小子得动动脑子啊.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "some"
+            ],
+            "voices": [
+                "Crosstalk/你小子够混的咋一根筋呢.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "every"
+            ],
+            "voices": [
+                "Crosstalk/你小子说什么呢.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "find"
+            ],
+            "voices": [
+                "Crosstalk/你小子又溜了.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "reduce"
+            ],
+            "voices": [
+                "Crosstalk/你再给我加上10箱我顺手给你弄个日本娘们.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "Symbol"
+            ],
+            "voices": [
+                "Crosstalk/上上课八个字欠债还钱杀人偿命.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "set"
+            ],
+            "voices": [
+                "Crosstalk/人要是倒霉放屁都砸脚后跟.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "promise"
+            ],
+            "voices": [
+                "Crosstalk/什么他娘的精锐啊老子打的就是精锐.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "module"
+            ],
+            "voices": [
+                "Crosstalk/手里的家伙好咱腰杆子就硬.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "Array"
+            ],
+            "voices": [
+                "Crosstalk/三下五除二就他娘的解决了.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "["
+            ],
+            "voices": [
+                "Crosstalk/是我把狗娘养的山崎大队给我干掉.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "]"
+            ],
+            "voices": [
+                "Crosstalk/手榴弹一箱全员上刺刀没有刺刀的抄起扁担也得全部上去.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                ";"
+            ],
+            "voices": [
+                "Crosstalk/属狗脸的说翻就翻.mp3"
+            ]
+        }
+    ]
 }
